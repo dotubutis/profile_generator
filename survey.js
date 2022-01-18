@@ -1,4 +1,3 @@
-// const readline = require("readline/promises");
 const readline = require("readline");
 const { stdin: input, stdout: output } = require("process");
 
